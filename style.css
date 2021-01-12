@@ -1,0 +1,18 @@
+.e-card{
+    border:0;
+}
+
+.e-footer{
+    border: 0;
+    background-color: white;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.e-slide .carousel-item{
+    background-color: #feeae9;
+    border-radius: .75em;
+
+}
